@@ -203,7 +203,7 @@ a:link, a:visited, a:active {
 				<div id="box-tab-idpwfind" class="box-tab-idpwfind uxetabs">
 					<ul class="box-tab-idpwfind_navigation">
 						<li class="box-tab-idpwfind_navigation-item"><a
-							class="box-tab-idpwfind_navigation-link" href="/id">아이디 찾기</a></li>
+							class="box-tab-idpwfind_navigation-link" href="/id">아이디 찾기ㅋ</a></li>
 
 						<li class="box-tab-idpwfind_navigation-item"><a
 							class="box-tab-idpwfind_navigation-link" href="/newPass">비밀번호
